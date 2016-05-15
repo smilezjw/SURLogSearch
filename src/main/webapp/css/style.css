@@ -1,0 +1,47 @@
+body{
+	height:100%;
+	background:url(../img/sur-bg.png) center center no-repeat fixed #333;
+	background-size:650px;
+	color:#fff;
+	text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+div.navigation h1{
+	padding: 20px 25%;
+	font-size:32px;
+}
+
+div.slogan{
+	margin-top:10%;
+	text-align:center;
+	/*vertical-align: middle;*/
+}
+
+div.slogan h1{
+	font-size:40px;
+}
+
+div.slogan p{
+	font-size:18px;
+}
+
+div.fileinput{
+	display:inline;
+}
+
+form.fileinput{
+	margin: 50px auto;
+	padding-left:43%;
+}
+
+form.fileinput .btn-primary{
+	background:#68A7DC;
+	border-color:#68A7DC;
+}
+
+.footer{
+	color:#B5B5B5;
+	position:fixed;
+	bottom:12px;
+	left:40%;
+}
